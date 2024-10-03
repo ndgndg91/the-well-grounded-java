@@ -1,4 +1,4 @@
-package com.ndgndg91.before5.immutable;
+package com.ndgndg91.chapter5.immutable;
 
 public interface Builder<T> {
     T build();

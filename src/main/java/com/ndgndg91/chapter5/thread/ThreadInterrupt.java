@@ -1,4 +1,4 @@
-package com.ndgndg91.before5.thread;
+package com.ndgndg91.chapter5.thread;
 
 public class ThreadInterrupt {
     public static void main(String[] args) throws InterruptedException {

@@ -1,4 +1,4 @@
-package com.ndgndg91.before5.lostupdate;
+package com.ndgndg91.chapter5.lostupdate;
 
 public class Account {
     private int balance;

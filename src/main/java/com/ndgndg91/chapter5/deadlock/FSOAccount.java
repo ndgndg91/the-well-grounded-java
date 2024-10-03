@@ -1,4 +1,4 @@
-package com.ndgndg91.before5.deadlock;
+package com.ndgndg91.chapter5.deadlock;
 
 public class FSOAccount {
     private int balance;
